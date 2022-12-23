@@ -1,5 +1,5 @@
 # About
-I been learning how plutonium codes things, so I made Rampage Inducer type mod exept they dont sprint. This mod was specificly mod for how zombies spawn so they dont take forever to spawn.
+I been learning how plutonium codes things, so I made Rampage Inducer type exept it DOES NOT change the zombies speed. This mod was specificly mod for how zombies spawn so they dont take forever to spawn.
 # How Mod Works
 If any player would of holded knife for about 3-4 seconds it would turn it on, and if any player would of holded there crouch button for a solid 3-4 seconds it would turn it off.
 # How To Use Mod
